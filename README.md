@@ -1,6 +1,13 @@
 frontend-nanodegree-arcade-game
 ===============================
 This is my arcade game for Udacity's Front-End Web Developer Nanodegree
+To run:
+--------
+
+1. Download the repository from https://github.com/githubsharan/arcade-master-ss
+2. Click download ZIP on the right of the screen, then extract the zip file to your computer, or clone the repository using git.
+3. Navigate to where you unzipped the file or cloned the repository.
+4. Double-click index.html to open the game in your browser.
 
 
 Gameplay:
